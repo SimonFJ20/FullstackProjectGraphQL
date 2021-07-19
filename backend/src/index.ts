@@ -14,7 +14,7 @@ import { __prod__ } from "./constants";
 import { MyContext } from "./types";
 
 
-const port = 4000;
+const port = 80;
 
 const main = async () => {
 
